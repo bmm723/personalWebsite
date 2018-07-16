@@ -1,2 +1,7 @@
 # personalWebsite
-Brie McIntosh resume website
+@author Brie McIntosh
+
+To run
+- clone repository 
+- npm install
+- npm start
